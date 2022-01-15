@@ -1,0 +1,23 @@
+2005-12-25  Michèle Garoche <michele.garoche@easyconnect.fr>
+
+	* po/es.po, po/fr.po, po/cssed-tag-plugin.pot:
+	Updated according to change in src tree
+	Updated copyright
+
+2004-09-16  Michèle Garoche <michele.garoche@easyconnect.fr>
+
+	* po/es.po, po/fr.po, po/cssed-tag-plugin.pot:
+	Changed strings according to changes in src
+	Added French po file
+	New pot file
+	Updated fr and es po files
+
+2004-09-10  Michèle Garoche <michele.garoche@easyconnect.fr>
+
+	* fr.po: 
+	Changed the name of the package from cssed-tag-plugin to cssed-tags-plugin 
+
+	* es.po:
+	Changed the name of the package from cssed-tag-plugin to cssed-tags-plugin
+	Normalized the header to be exactly the same as other plugins 
+

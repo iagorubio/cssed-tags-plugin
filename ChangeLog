@@ -1,0 +1,18 @@
+2005-12-25  Michèle Garoche <michele.garoche@easyconnect.fr>
+
+	* README: 
+	updated copyright 
+
+2004-09-16  Michèle Garoche <michele.garoche@easyconnect.fr>
+
+	* configure.in: 
+	Added fr as gettext language
+
+2004-09-10  Michèle Garoche <michele.garoche@easyconnect.fr>
+
+	* configure, configure.in: 
+	Changed the name of the package from cssed-tag-plugin to cssed-tags-plugin 
+
+	* NEWS, README, AUTHORS
+	Added contents
+

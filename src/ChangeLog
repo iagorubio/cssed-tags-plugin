@@ -1,0 +1,16 @@
+2004-09-16  Michèle Garoche <michele.garoche@easyconnect.fr>
+
+	* src/callbacks.c, src/interface.c, src/support.c, src/tagplugin.c: 
+	
+	Improved English wording in GUI
+	First letter capitalized
+	
+	* src/callbacks.c, src/interface.c
+	
+	Changed forze to force in GUI, reference and command to allow
+	--force-language to work
+
+	* ChangeLog: 
+	
+	Added it to track changes
+
